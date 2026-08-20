@@ -21,9 +21,7 @@ I've kept coming back to software, design, and automation in different forms eve
 
 Today I'm especially interested in the intersection of **AI, computer vision, product design, and real-world operational systems**.
 
-## Current focus
+## Selected work
 
-🏠 Building MeasureAgent  
-👁️ Computer vision + 3D reconstruction  
-🤖 AI agents and workflow automation  
-🛠️ Software for real-world field operations
+- **[MeasureAgent Engineering Portfolio](https://github.com/Quinnytrott/measureagent-engineering-portfolio)** — production SaaS architecture, applied AI, computer vision, geospatial systems, and contractor workflow automation.
+- **[Aerial Stereo Roof Pitch](https://github.com/Quinnytrott/aerial-stereo-roof-pitch)** — experimental Python photogrammetry pipeline for reconstructing roof-plane orientation from calibrated aerial stereo imagery.
